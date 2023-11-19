@@ -1,0 +1,11 @@
+To OpenSesame
+Repeat 6 [
+Forward 15
+Left 60
+Forward 15
+Left 180
+Forward 15
+Left 60
+]
+End
+

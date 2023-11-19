@@ -1,0 +1,8 @@
+To DrawPolygon :Sides
+Repeat :Sides [
+Forward (360/:Sides)
+Right (360/:Sides)
+]
+
+
+Make "sides 10000000

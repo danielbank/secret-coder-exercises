@@ -1,0 +1,11 @@
+To RandomWalk
+Repeat 100 [ 
+Ifelse ((Random 2) = 0) [ 
+Right 5 
+][ 
+Left 5 
+] 
+Forward 1 
+]
+End
+

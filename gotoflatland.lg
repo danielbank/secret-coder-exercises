@@ -1,0 +1,16 @@
+To DrawPolygon :NSides
+Repeat :NSides [
+Forward 20
+Right 360/:NSides
+]
+End
+
+To GoToFlatLand 
+Make "NSides 3
+Repeat 18[
+DrawPolygon :NSides
+Make "NSides (:NSides +1)
+]
+End
+
+Make "nsides 21

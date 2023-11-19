@@ -1,0 +1,9 @@
+To Chaos
+Repeat 100 [
+Make "Length (Random 100)
+Make "Angle (Random 360)
+Forward :Length
+Right :Angle
+]
+End
+

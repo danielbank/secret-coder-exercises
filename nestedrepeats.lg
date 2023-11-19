@@ -1,0 +1,10 @@
+To PlusSign
+Repeat 4 [
+Repeat 3 [
+Forward 15 
+Right 90
+]
+Left 180
+]
+End
+

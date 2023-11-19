@@ -1,0 +1,28 @@
+To Snowflake
+PenUp
+Forward 20
+Right 120
+PenDown
+Repeat 6 [
+Left 60
+Forward 20
+Right 120
+Forward 20
+]
+Left 120
+Back 20
+Repeat 6 [
+Forward 40
+Back 10
+Right 60
+Forward 10
+Back 10
+Left 120
+Forward 10
+Back 10
+Right 60
+Back 30
+Right 60
+]
+End
+

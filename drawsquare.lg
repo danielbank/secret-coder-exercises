@@ -1,0 +1,8 @@
+To DrawSquare
+Make "Length (Random 100)
+Repeat 4 [
+Forward :Length
+Right 90
+]
+End
+

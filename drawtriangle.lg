@@ -1,0 +1,7 @@
+To DrawTriangle :LegLength
+Repeat 3 [ 
+Forward :LegLength 
+Right 120
+]
+End
+

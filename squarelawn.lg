@@ -1,0 +1,10 @@
+To SquareLawn
+Make "Length 1
+Repeat 40 [
+Forward :Length
+Make "Length (:Length + 1)
+Right 90
+]
+End
+
+Make "length 1

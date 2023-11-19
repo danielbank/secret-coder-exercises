@@ -1,0 +1,16 @@
+To Homework
+SetPenColor 4
+Right 90
+Repeat 8 [
+PenUp
+Forward 4
+PenDown
+Right 90
+Forward 12
+Back 12
+Left 90
+PenUp
+Forward 16
+]
+End
+
